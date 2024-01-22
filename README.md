@@ -29,7 +29,8 @@ The project is a Django-based web application for managing and displaying studen
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone  https://github.com/lijimathew123/onbyz-assignment.git
+
 2. cd onbyz
 3. Create vertual environment
 4. Run Command "pip install -r requirements.txt"
