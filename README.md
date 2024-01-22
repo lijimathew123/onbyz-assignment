@@ -15,6 +15,7 @@ The project is a Django-based web application for managing and displaying studen
 - CSS
 - Python
 - SqLite
+- I am using django forms to filter data. (We can also use customtags to achieve this)
 
 ## Getting Started
 
